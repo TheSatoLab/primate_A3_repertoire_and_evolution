@@ -10,5 +10,5 @@
   * **Usage:**
     * python script/select\_alignment\_site.py **\<input file (aligned fasta)\>** **\<output file prefix\>** **\<minimum site coverage\>** **\<maximum proportion of the  non-gapped sites\>**
   * **Output:**
-    * **<prefix>_seq\_all\_pos.fas**: without removing the alignment sites with low site-coverage
-    * **<prefix>_seq\_selected\_pos.fas**: with removing the alignment sites with low site-coverage
+    * **\<prefix\>_seq\_all\_pos.fas**: without removing the alignment sites with low site-coverage
+    * **\<prefix\>_seq\_selected\_pos.fas**: with removing the alignment sites with low site-coverage
