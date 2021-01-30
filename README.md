@@ -5,7 +5,7 @@ APOBEC3 proteins play pivotal roles in defenses against retroviruses, including 
 
 This directory contains:
 * **Table_suppl.xlsx** includes the infomation of the identified AID/APOBEC-related genes in primates.
-* **TE_insertion_amount** includes the raw data (i.e., the RepeatMasker output) and the programs to estimate the insertion dates of respective TE loci according to the distribution of the orthologous copies among primates and out group species. 
+* **TE_insertion_amount** includes the raw data (i.e., the RepeatMasker output) and the programs to estimate the insertion dates of respective TE loci according to the distribution of the orthologous copies among primates and the outgroup species. 
 * **Trees** includes the multiple sequence alignments and the phylogenetic trees constructed in the present study.
   * **/script/select_alignment_site.py** a script to filter the alignment sites with low site-coverage and the sequences with many gapped sites.
   
